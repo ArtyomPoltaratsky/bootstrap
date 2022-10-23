@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('fonts/icomoon.eot?nwe6fi');
+    src:  url('fonts/icomoon.eot?nwe6fi#iefix') format('embedded-opentype'),
+      url('fonts/icomoon.ttf?nwe6fi') format('truetype'),
+      url('fonts/icomoon.woff?nwe6fi') format('woff'),
+      url('fonts/icomoon.svg?nwe6fi#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-Logo .path1:before {
+    content: "\e900";
+    color: rgb(0, 156, 191);
+  }
+  .icon-Logo .path2:before {
+    content: "\e901";
+    margin-left: -2.2724609375em;
+    color: rgb(0, 0, 0);
+  }
+  .icon-Logo .path3:before {
+    content: "\e902";
+    margin-left: -2.2724609375em;
+    color: rgb(231, 130, 0);
+  }
+  .icon-Logo .path4:before {
+    content: "\e903";
+    margin-left: -2.2724609375em;
+    color: rgb(231, 130, 0);
+  }
+  Footer
+  © 2022 GitHub, Inc.
+  Footer navigation
+  

@@ -1,0 +1,63 @@
+html{
+    zoom:110%;
+}
+*{
+    box-sizing: border-box;
+}
+.nav li a{
+    color: #000;
+}
+.nav li a:hover{
+    color: #FA4A0C;
+}
+.nav li a:focus{
+    color: #FA4A0C;
+}
+.main-bg{
+    background-image: url(./bgimg.png);
+    height: 616px;
+}
+.main_text1{
+    font-family: 'Montserrat';
+}
+.main_text2{
+    font-family: 'Poppins';
+}
+
+.main_text3{
+    font-family: 'Montserrat';
+}
+
+.bg_button{
+    font-family: 'Montserrat';
+    border: 1px solid #FFFFFF; 
+    background-color: transparent; 
+}
+.bg2_button{
+    font-family: 'Montserrat';
+    box-sizing: border-box;
+    border: 1px solid #FFFFFF; 
+    background-color: transparent; 
+}
+
+.bg_button:focus,
+.bg2_button:focus{
+    background-color: #FA4A0C;
+    border: 1px solid #FA4A0C;
+    box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
+}
+.bg2{
+    font-family: "Montserrat";
+    background-image: url(./Rectangle\ 47.png);
+    height: 516px;
+}
+.main-bg,
+.bg2{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.account,
+.varieties{
+    font-family: "Montserrat";
+}
